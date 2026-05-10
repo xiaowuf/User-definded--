@@ -1,7 +1,7 @@
 # 自定义动态桌宠图案制作指南
 
 本文介绍两种方案，将一段短视频处理成带有透明通道的动态 GIF，作为自定义桌宠图案。整体流程分为“获取视频素材 → 裁剪视频 → 抠图并转换为 GIF”三步，其中抠图转换环节提供两种实现方式。
-
+<img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png"width="25%" alt="PUNI">
 ---
 
 ## 一、准备视频素材
@@ -10,9 +10,6 @@
 2. 将照片发给**豆包**，让它生成一段 **3 秒、1:1 比例**的视频。  
    - 需要自行用文字描述你想要的动作（如：挥手、跳动、旋转等）。
 3. 保存生成的视频，得到类似 `pn1.MP4` 的原始素材（也可以直接使用本项目提供的 `pn1.MP4`）。
-<img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png" 
-     width="25%" alt="PUNI">
-
 ---
 
 ## 二、裁剪视频
