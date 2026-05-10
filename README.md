@@ -10,6 +10,7 @@
 2. 将照片发给**豆包**，让它生成一段 **3 秒、1:1 比例**的视频。  
    - 需要自行用文字描述你想要的动作（如：挥手、跳动、旋转等）。
 3. 保存生成的视频，得到类似 `pn1.MP4` 的原始素材（也可以直接使用本项目提供的 `pn1.MP4`）。
+![PUNI](https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png)
 
 ---
 
