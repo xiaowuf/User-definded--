@@ -2,8 +2,7 @@
 
 本文介绍两种方案，将一段短视频处理成带有透明通道的动态 GIF，作为自定义桌宠图案。整体流程分为“获取视频素材 → 裁剪视频 → 抠图并转换为 GIF”三步，其中抠图转换环节提供两种实现方式。
 ---
-|:-----------:|:------:|
-| <img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png" width="100%" alt="PUNI"> | <img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/%E6%95%88%E6%9E%9C%E5%9B%BE.gif" width="100%" alt="效果图"> |
+| <img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png" width="30%" alt="PUNI"> | <img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/%E6%95%88%E6%9E%9C%E5%9B%BE.gif" width="25%" alt="效果图"> |
 ## 一、准备视频素材
 
 1. 挑选一张你喜欢的照片（角色或物体），没有的话可以参考本项目的PUNI.png。
