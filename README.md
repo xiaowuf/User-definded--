@@ -4,6 +4,8 @@
 ---
 <img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/PUNI.png" 
      width="25%" alt="PUNI">
+<img src="https://raw.githubusercontent.com/xiaowuf/User-definded--/main/%E6%95%88%E6%9E%9C%E5%9B%BE.gif"
+     width="25%" alt="效果图">
 ## 一、准备视频素材
 
 1. 挑选一张你喜欢的照片（角色或物体），没有的话可以参考本项目的PUNI.png。
